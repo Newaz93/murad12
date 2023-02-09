@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-08T10:53:12 EST" name="Default suite" finished-at="2023-01-08T10:53:21 EST" duration-ms="8932">
+    <groups>
+    </groups>
+    <test started-at="2023-01-08T10:53:12 EST" name="Default test" finished-at="2023-01-08T10:53:21 EST" duration-ms="8932">
+      <class name="testNG_demo.testNG_demo">
+        <test-method signature="murad()[pri:0, instance:testNG_demo.testNG_demo@783a467b]" started-at="2023-01-08T10:53:12 EST" name="murad" finished-at="2023-01-08T10:53:21 EST" duration-ms="8882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- murad -->
+      </class> <!-- testNG_demo.testNG_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
